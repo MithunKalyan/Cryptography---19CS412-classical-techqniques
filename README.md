@@ -769,8 +769,10 @@ int main() {
 ```
 ## OUTPUT:
 OUTPUT:
+
 ENCRYPTION:
 ![output5 1](https://github.com/user-attachments/assets/899110d9-f0b4-47e5-99e8-adda25ea146d)
+
 DECRYPTION:
 ![output5 2](https://github.com/user-attachments/assets/7dcbf2df-8098-4a3e-9430-6a3d0bf909c2)
 ## RESULT:
